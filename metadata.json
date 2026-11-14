@@ -1,0 +1,6 @@
+{
+  "name": "OficinaPro",
+  "description": "Aplicativo mobile-first para mecânicos autônomos e pequenas oficinas criarem orçamentos com checklist visual, cotação de peças no WhatsApp e PDF no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
